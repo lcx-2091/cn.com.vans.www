@@ -1,0 +1,57 @@
+/* 顶部 */
+.title{
+    height: 130px;
+    background-color: #ffffff;
+    border-bottom: 20px solid black;
+}
+.title-top{
+    height: 130px;
+    background-color: #ffffff;
+}
+.title-top-left img{
+    float: left;
+    margin-top: 33px;
+    margin-left: 70px;
+}
+.title-top-right ul{
+    float: right;
+    margin-top: 15px;
+    margin-right: 74px;
+}
+.title-top-right ul li{
+    float: left;
+    margin-right: 22px;
+}
+.title-top-right ul li a{
+    font-size: 17px;
+    color: #A89B9B;
+}
+.title-top-right ul li a:hover{
+    color: red;
+}
+.title-bottom-right{
+    float: left;
+}
+.title-bottom-right ul{
+    /* float: right; */
+    margin-top: 80px;
+    margin-left: 50px;
+}
+.title-bottom-right ul li,i{
+    float: left;
+
+}
+.title-bottom-right ul li{
+    font-size: 16px;
+    color: #000000;
+}
+.title-bottom-right ul i{
+    font-size: 16px;
+    color: #B19C9A;
+}
+/* 内容 */
+/* 底部 */
+.bottom{
+    height: 470px;
+    background-color: #000000;
+}
